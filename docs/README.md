@@ -11,4 +11,4 @@ Le Département a la volonté de s’inscrire dans la démarche qualité Opquast
 
 A ces titres, le prestataire mandaté par le Département se doit de respecter ces référentiels et est incité à en prendre connaissance le cas échéant.
 
-
+Avril 2020
