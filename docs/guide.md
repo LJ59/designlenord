@@ -1,3 +1,5 @@
-# Guide
+# Perdu?
 
-Perdu? Relax
+Relax
+
+[C'est par là](/)

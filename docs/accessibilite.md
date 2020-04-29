@@ -26,7 +26,7 @@ A l’inverse, les éléments de menus se soulignent au survol.
 
 Une différenciation visuelle entre liens visités et non visités sera manifestée en corps de texte uniquement.
 
-Un lien pointant vers un site externe ou ouvrant une nouvelle fenêtre doit le mentionner via le <title>. 
+Un lien pointant vers un site externe ou ouvrant une nouvelle fenêtre doit le mentionner via la balise title. 
 
 Les liens externes peuvent de plus et dans la mesure du possible être identifiés via le pictogramme Capitales.
 

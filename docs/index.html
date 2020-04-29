@@ -18,15 +18,23 @@
             alias: {
                 '/.*/_sidebar.md': '/_sidebar.md'
             },
+            coverpage: true,
             loadSidebar: true,
             logo: '/_media/Logo-Nord.png',
             name: 'Département du Nord - guide graphique web',
+            pagination: {
+                previousText: 'précédent',
+                nextText: 'suivant',
+                crossChapter: true,
+                crossChapterText: true,
+            },
             repo: '',
             themeColor: '#139FC6'
         }
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-    <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+    <!--plugins-->
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 
 </html>

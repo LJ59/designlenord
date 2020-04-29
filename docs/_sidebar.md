@@ -1,4 +1,4 @@
-* [Home](/)
+* [Haut de page](/)
 * [Accessibilité](accessibilite.md)
 * [Identité](identite.md)
 * [Header](header.md)
